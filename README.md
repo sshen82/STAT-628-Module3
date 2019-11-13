@@ -54,5 +54,5 @@ There are three subfolders inside image folder.
 ## Authors
 * **Pengfei He** -(phe25@wisc.edu)
 * **Zejin Gao** -(zgao92@wisc.edu)
-* **Siqi Shen** -(@wisc.edu)
+* **Siqi Shen** -(sshen82@wisc.edu)
 * **Anne Huen Wai Wong** -(@wisc.edu)
