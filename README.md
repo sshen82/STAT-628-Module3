@@ -1,6 +1,10 @@
 # STAT-628-Module3
 
-This repository contains Yelp analysis project work related to STAT 628, instructed by Prof. Hyunseung Kang. We are Thursday Group 1. Our goal is to explore the seafood business through Yelp data and provide useful, analytical insights for seafood restaurant owners to improve their Yelp ratings.
+This repository contains Yelp analysis project work related to STAT 628, instructed by Prof. Hyunseung Kang. 
+
+We are Thursday Group 1. 
+
+Our goal is to explore the seafood business through Yelp data and provide useful, analytical insights for seafood restaurant owners to improve their Yelp ratings.
 
 ## Link to our web-based app
 - [Seafood business recommendation app](our link)
@@ -49,7 +53,7 @@ There are three subfolders inside image folder.
 
 
 ## Jupyternote book
-*Executive_summary.ipynb* is a detailed summary of our analysis process presented in a Jupyter Notebook. 
+**Executive_summary.ipynb** is a detailed summary of our analysis process presented in a Jupyter Notebook. 
 
 ## Authors
 * **Pengfei He** -(phe25@wisc.edu)
