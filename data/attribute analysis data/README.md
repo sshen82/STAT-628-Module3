@@ -1,3 +1,5 @@
 # attribute analysis data
 
-* This folder contains clean attribute data with imputation.
+* **business_attributes_raw.csv**: original attribute data.
+
+* **business_attributes.csv**: attribute data after imputation.
