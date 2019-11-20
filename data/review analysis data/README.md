@@ -1,2 +1,4 @@
 # review analysis data
-* **review.csv**: a dataframe with 3 features('business_id', 'stars', 'text') and 432 reviews
+* **dict_adj.txt**: a dictionary for adjectives with positive/negative tags.
+
+* **Other ".csv"**: review analysis results.
