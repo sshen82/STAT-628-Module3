@@ -51,4 +51,4 @@ There are three subfolders inside image folder.
 * **Pengfei He** -(phe25@wisc.edu)
 * **Zejin Gao** -(zgao92@wisc.edu)
 * **Siqi Shen** -(sshen82@wisc.edu)
-* **Anne Huen Wai Wong** -(@wisc.edu)
+* **Anne Huen Wai Wong** -(awong43@wisc.edu)
