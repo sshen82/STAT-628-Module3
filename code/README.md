@@ -1,1 +1,3 @@
-This fold contains all the code related to analysis and plot.
+# Code
+
+This folder contains 6 subfolders with all the code related to analysis and plot.
