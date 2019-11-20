@@ -32,7 +32,7 @@ There are five subfolders inside code folder.
  
   **data preprocessing code** is a folder contains codes produced in data preprocessing.
   
-   **shiny** is a folder contains codes to generate shiny app.
+   **Shiny** is a folder contains codes to generate shiny app.
 
 ## Image
 There are three subfolders inside image folder.
