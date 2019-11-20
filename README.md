@@ -5,7 +5,7 @@ This repository contains Yelp analysis project work related to STAT 628, instruc
 ## Link to our web-based app
 - [Seafood business recommendation app](https://nerrix.shinyapps.io/shiny/)
 ## Summary
-There are four folders providing details in our main project, *data*, *code*, *image*, *executive summary*.
+There are three folders and a ".ipynb" file providing details in our main project, *data*, *code*, *image*, *executive summary*.
 
 ## Data
 
